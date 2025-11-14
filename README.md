@@ -188,7 +188,7 @@ Streamlit UI → URL Fetcher → Text Extractor → Text Cleaner → Text Splitt
 ---
 
 ## 📄 Resume & Contact
-- **Resume (PDF):** `resume/Kaushikan_Dinakaran.pdf` *(add to repo)*  
+- **Resume (PDF):** `resume/Kaushikan_Dinakaran.pdf`
 - **LinkedIn:** https://www.linkedin.com/in/kaushikan-dinakaran-526a47205/  
 - **GitHub:** https://github.com/kaushikandinakaran  
 - **Email:** kaushikandinakaran@gmail.com
